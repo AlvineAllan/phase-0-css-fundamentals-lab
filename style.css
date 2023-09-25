@@ -3,3 +3,39 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  text-align-last: center;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+nav {
+  text-align: center;
+  text-decoration: dashed;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+nav a {
+  background-color: blanchedalmond;
+}
+figure figcaption {
+ font-size: smaller;
+ text-align: center;
+}
+#featured-property>p {
+  width: 800px;
+  vertical-align: middle;
+  margin-left: 25%;
+  text-align: center;
+}
+#details>div {
+  background-color: red;
+  bottom: 0%;
+  float: left;
+  text-align: center;
+  width: 25%;
+  
+}
